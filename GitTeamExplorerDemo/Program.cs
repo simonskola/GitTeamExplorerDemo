@@ -10,6 +10,7 @@ namespace GitTeamExplorerDemo
     {
         static void Main(string[] args)
         {
+            // Detta är en ändring
         }
     }
 }
